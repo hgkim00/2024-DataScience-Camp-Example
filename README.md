@@ -1,16 +1,28 @@
 # datascience_camp_2024_practice
 
-A new Flutter project.
+### Version Info
 
-## Getting Started
+```bash
+Flutter 3.10.5 • channel stable • https://github.com/flutter/flutter.git
+Framework • revision 796c8ef792 (7달 전) • 2023-06-13 15:51:02 -0700
+Engine • revision 45f6e00911
+Tools • Dart 3.0.5 • DevTools 2.23.1
+```
 
-This project is a starting point for a Flutter application.
+### Package Version Info
 
-A few resources to get you started if this is your first Flutter project:
+```yaml
+dependencies:
+  flutter:
+    sdk: flutter
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+  get: ^4.6.5
+  flutter_svg: ^2.0.9
+  cupertino_icons: ^1.0.2
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  fl_chart: ^0.60.0
+  syncfusion_flutter_charts: ^20.4.50
+  syncfusion_flutter_gauges: ^20.4.50
+  syncfusion_flutter_datepicker: ^20.4.50
+  rive: ^0.12.4
+```
